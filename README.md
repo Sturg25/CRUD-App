@@ -1,2 +1,2 @@
-Simple CRUD App with SQL Database and CSS.
+Simple CRUD App using PHP with SQL Database and CSS.
 Used with XAMPP 
